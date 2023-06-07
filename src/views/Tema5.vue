@@ -22,7 +22,7 @@
 
     .bg2.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-center       
-        .col-auto
+        .col-lg-auto.mb-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')     
 
         .col
@@ -100,7 +100,7 @@
         .col-lg-6.my-3(data-aos="fade-right")
           .bg16.p-4.py-5.h-100.brad1.j
             .row.justify-content-center           
-              .col-auto 
+              .col-lg-auto.mb-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.svg', alt='')     
               .col
                 h5(data-aos="fade-down") Fluctuación de inventarios
@@ -108,7 +108,7 @@
         .col-lg-6.my-3(data-aos="fade-left")
           .bg16.p-4.py-5.h-100.brad1.j
             .row.justify-content-center           
-              .col-auto 
+              .col-lg-auto.mb-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/63.svg', alt='')     
               .col
                 h5(data-aos="fade-down") Variación de personal y contratación o despido
@@ -117,7 +117,7 @@
         .col-lg-6.my-3(data-aos="fade-right")
           .bg16.p-4.h-100.brad1.j
             .row.justify-content-center           
-              .col-auto 
+              .col-lg-auto.mb-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/64.svg', alt='')     
               .col
                 h5(data-aos="fade-down") Variación de tasa de utilización del personal u horas extras
@@ -125,7 +125,7 @@
         .col-lg-6.my-3(data-aos="fade-left")
           .bg16.p-4.h-100.brad1.j
             .row.justify-content-center           
-              .col-auto 
+              .col-lg-auto.mb-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/65.svg', alt='')     
               .col
                 h5(data-aos="fade-down") Subcontratación

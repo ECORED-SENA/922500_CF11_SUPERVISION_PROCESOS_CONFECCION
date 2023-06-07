@@ -20,7 +20,7 @@
       .col-lg-10
         .bg8.p-4.brad1(data-aos="flip-down") 
           .row.justify-content-center.align-items-star
-            .col-auto
+            .col-lg-auto.mb-3
               img.img-a.img-t.beat(src='@/assets/curso/temas/39.svg', alt='')
             .col
               p(data-aos="fade-down").mb-0 Es importante considerar las condiciones de cada proceso productivo y qué elemento o elementos son más relevantes al construir las gráficas, por ejemplo, si es el personal, los horarios de trabajo, las unidades producidas reales, las unidades esperadas, las materias primas o inventarios disponibles, etc. Entre los más utilizados se encuentran el Diagrama de Gantt, de carga y la programación secuencial. 
@@ -33,7 +33,7 @@
     p(data-aos="fade-down").mb-5 Algunas de esas variables son: 
     .bg11.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-start       
-        .col-auto
+        .col-lg-auto.mb-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.svg', alt='')     
 
         .col

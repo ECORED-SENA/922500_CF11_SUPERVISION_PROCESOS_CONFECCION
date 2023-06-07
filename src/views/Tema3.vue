@@ -22,7 +22,7 @@
                
     .bg2.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-center       
-        .col-auto
+        .col-lg-auto.mb-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')     
 
         .col
@@ -44,7 +44,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 1. 
           span Sistema MRP 
-        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='') 
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='Esquema que expone el funcionamiento y organización del sistema MRP o plan de requerimiento de materiales, así: Fase de entradas, relacionada directamente con el plan maestro de listas de materiales, el programa maestro de producción y los registros de inventarios. Fase de proceso, que implementa directamente el sistema MRP. Fase de salidas, relacionada directamente con los informes primarios, informes secundarios y los datos de transacciones de inventario.') 
         figcaption Nota. Adaptado de Suarez, (s.f.)    
 
     p(data-aos="fade-down").my-5 De este modo, este sistema debe velar porque los costos sean los correctos y no excederse en gastos. Debido a un manejo inadecuado de la manera como se relacionan los materiales, las personas, los procesos y los clientes; las empresas pueden tener sobrecostos en sus operaciones, lo que significa: 
@@ -93,7 +93,7 @@
                      
     h4(data-aos="fade-down").t1 Funciones del plan de requerimiento de materiales (MRP)           
 
-    p(data-aos="fade-down").mb-5 Son funciones del plan de requerimiento de materiales las siguientes:
+    p(data-aos="fade-down").mb-3 Son funciones del plan de requerimiento de materiales las siguientes:
 
     .row.justify-content-center.text-center  
       .col-lg-3.my-3(data-aos="fade-left")
@@ -127,7 +127,7 @@
       .col-lg-10
         .bg8.p-4.brad1(data-aos="flip-down") 
           .row.justify-content-center.align-items-star
-            .col-auto
+            .col-lg-auto.mb-3
               img.img-a.img-t.beat(src='@/assets/curso/temas/39.svg', alt='')
             .col
               p(data-aos="fade-down").mb-0 De esta manera, todos los procedimientos que antes se realizaban manualmente para planificar los recursos y las actividades necesarias para desarrollar un proyecto, ahora se pueden hacer por intermedio de programas informáticos, a los cuales hay que ingresar la información necesaria para que funcione, como datos de proveedores y clientes, tiempos de fabricación, costos, materias primas, consumos y fechas proyectadas; de esta forma el programa relaciona esa información para que a su vez emita informes que permiten tomar las mejores decisiones.

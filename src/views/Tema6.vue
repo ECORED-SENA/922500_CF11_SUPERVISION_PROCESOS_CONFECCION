@@ -24,7 +24,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
           span Cadenas fundamentales de aprovisionamiento
-        .tabla.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-5
           table
             tbody
               tr.tbtop
@@ -85,7 +85,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
           span  RP, disponibles en el mercado
-        .tabla.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-5
           table
             tbody
               tr.tbtop
@@ -109,7 +109,7 @@
       .col-lg-10
         .bg8.p-4.brad1(data-aos="flip-down") 
           .row.justify-content-center.align-items-star
-            .col-auto
+            .col-lg-auto.mb-3
               img.img-a.img-t.beat(src='@/assets/curso/temas/39.svg', alt='')
             .col
               p(data-aos="fade-down").mb-0 Existen otros programas diseñados también para obtener información en tiempo real y aprovechar mejor los recursos, entre otras bondades; a esos programas se les llama BPM (Business Process Management), que se traduce como Gestión de Procesos de Negocio          

@@ -181,7 +181,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 - Los títulos ahora son elementos h
 - Unificación de pie de imagen y pie de tabla
 - Mejor contraste en el encabezado de la tabla de material complementario
-- Tamaño de titulo de .tabla-b
+- Tamaño de titulo de .tabla-a-b
 
 #
 

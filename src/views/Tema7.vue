@@ -32,7 +32,7 @@
       .col-lg-10
         .bg8.p-4.brad1(data-aos="flip-down") 
           .row.justify-content-center.align-items-star
-            .col-auto
+            .col-lg-auto.mb-3
               img.img-a.img-t.beat(src='@/assets/curso/temas/39.svg', alt='')
             .col
               p(data-aos="fade-down").mb-0 De acuerdo con la naturaleza del producto esperado, se podrá reunir una secuencia numérica de cada uno de los elementos del costo para personalizar cada orden de producción, aquí se tendrá en cuenta materias primas e insumos, junto a toda la información necesaria que debe conocer el proveedor a quien va dirigido estos datos.
@@ -54,7 +54,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4(data-aos="fade-down") Construcción de la orden de producción
-                  p(data-aos="fade-down").mb-0 Explore con suma atención el Anexo_3_ConstruccionDeLaOrdenDeProduccion y profundice en los aspectos que allí se detallan.
+                  p(data-aos="fade-down").mb-0 Le invitamos a consultar el siguiente contenido descargable para que profundice sobre el tema de la construcción de la orden de producción.
                 .col-sm-auto
                   a.boton.color-primario(:href="obtenerLink('/downloads/Anexo_3_ConstruccionDeLaOrdenDeProduccion.pdf')" target="_blank")
                     span Descargar
@@ -108,7 +108,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
           span Aplicación de la orden de compra
-        .tabla.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-5
           table.text-center
             thead.bgh
               tr
@@ -123,7 +123,7 @@
     p(data-aos="fade-down").mb-5 De esta manera, este importante documento posibilita:
     .bg11.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-center       
-        .col-auto
+        .col-lg-auto.mb-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')     
 
         .col
@@ -202,7 +202,7 @@
 
     .bg2.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-center       
-        .col-auto
+        .col-lg-auto.mb-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')     
 
         .col
@@ -237,7 +237,7 @@
 
     h4(data-aos="fade-down").t1 Beneficios de los pronósticos de producción
     p(data-aos="fade-down").mb-5 Es cierto que nadie puede planear el futuro con precisión y menos empleando datos pasados, pero el valor de los pronósticos sobre todo en el contexto productivo puede ser útil para lo siguiente: 
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8
         .bg19.p-4(data-aos="fade-left")
           ul.lista-ul.mb-0.fa-ul
@@ -259,7 +259,7 @@
             li.mb-0 
               i.lista-ul__vineta
               p.mb-0 Sostener en buenos números los tres principales indicadores de gestión del proceso de manufactura, índice de calidad, índice de facturación y el índice de ciclos de entrega de la producción. 
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/89.png', alt='')     
 
     Separador 
@@ -330,7 +330,7 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
             span Recursos humanos         
-          img.img-a.img-t(src='@/assets/curso/temas/98.svg', alt='')   
+          img.img-a.img-t(src='@/assets/curso/temas/98.svg', alt='Esquema circular que evidencia la conexión entre la gestión de recursos humanos y todos sus procesos relacionados: administración, gestión, selección, capacitación, desarrollo, relaciones laborales y compensación.')   
 
     h4(data-aos="fade-down").t1 Técnicas para pronosticar las necesidades de recursos humanos
     p(data-aos="fade-down") Existen diversas técnicas o métodos para predecir las futuras necesidades de los recursos humanos, pero se debe tener en cuenta que ninguna provee información precisa tal cual se espera. De esta forma, es posible identificar técnicas basadas en tendencias y en experiencias, algunas más sencillas y otras más complejas.
@@ -380,38 +380,38 @@
 
     SlyderF.text-center.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
       .bg21.p-0.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/101.png' alt='AvatarTop')
+        img(src='@/assets/curso/temas/101.png' alt='AvatarTop')
         .p-4
           h4 La medición y evaluación          
           p.mb-0 Hacen parte de la etapa de control en el proceso administrativo y son las que permiten los procesos de mejora continua.   
       .bg21.p-0.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/102.png' alt='AvatarTop')
+        img(src='@/assets/curso/temas/102.png' alt='AvatarTop')
         .p-4
           h4 Su fundamento          
           p.mb-0 La planeación se basa en la elección de opciones que permitan alcanzar objetivos organizacionales y en la toma de decisiones para lograrlos. 
       .bg21.p-0.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/103.png' alt='AvatarTop')
+        img(src='@/assets/curso/temas/103.png' alt='AvatarTop')
         .p-4
           h4 Refuerzo a los procesos       
           p.mb-0 El hecho de realizar acciones complementarias a los procesos contribuye a que se esté constantemente siguiendo la línea de la innovación, recortando caminos para lograr que el producto o servicio se entregue en el menor tiempo posible. 
       .bg21.p-0.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/104.png' alt='AvatarTop')
+        img(src='@/assets/curso/temas/104.png' alt='AvatarTop')
         .p-4
           h4 Acción colaborativa     
           p.mb-0 Los equipos de trabajo en forma colaborativa enmarcan sus actividades correlacionando los procesos y estableciendo al cien por ciento sus capacidades en función de la alta productividad. 
       .bg21.p-0.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/105.png' alt='AvatarTop')
+        img(src='@/assets/curso/temas/105.png' alt='AvatarTop')
         .p-4
           h4 Buenas prácticas   
           p.mb-0 Es por ello, que buenas prácticas administrativas y operativas permiten el buen posicionamiento competitivo de las organizaciones con respecto a su competencia.
       .bg21.p-0.h-100
-        img.img-a.img-t(src='@/assets/curso/temas/106.png' alt='AvatarTop')
+        img(src='@/assets/curso/temas/106.png' alt='AvatarTop')
         .p-4
           h4 Establecimiento de criterios y mecanismos
           p.mb-0 Así es como se agrega tanta importancia a los sistemas de planeación, puesto que estos permiten establecer los distintos elementos que se deben tener en cuenta para un óptimo desarrollo en la producción.   
           
     .row.justify-content-start.mb-3     
-        .col-auto.bg22.p-0.pe-4(data-aos="flip-down")
+        .col-lg-auto.mb-3.bg22.p-0.pe-4(data-aos="flip-down")
           .list.mb-1
             .list__item
               .list__item__icon
@@ -434,7 +434,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 6.
           span Beneficios al determinar consumo de materias primas e insumos
-        .tabla.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido.mb-5
           table
             tbody
               tr.tbtop
@@ -451,7 +451,7 @@
                 td.p-4 Sustituye el material que puede reemplazar a otro que no se encuentre en el mercado y que al menos cuenta con las mismas características críticas del material principal. 
 
     .row.justify-content-start.mb-3     
-        .col-auto.bg22.p-0.pe-4(data-aos="flip-down")
+        .col-lg-auto.mb-3.bg22.p-0.pe-4(data-aos="flip-down")
           .list.mb-1
             .list__item
               .list__item__icon
@@ -475,7 +475,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
           span  Plan de requerimiento de los Materiales (PRM) en una empresa
-        img.img-a.img-t(src='@/assets/curso/temas/108.svg', alt='') 
+        img.img-a.img-t(src='@/assets/curso/temas/108.svg', alt='Esquema que ubica en el centro al plan de requerimiento de materiales o MRP. A su alrededor, y en función de su importancia, están ubicados otros procesos o acciones de la producción de una empresa: programa maestro de producción, fuentes de demanda, diseños de ingeniería y de procesos, listas de materiales, transacciones de inventario, registros de inventario.') 
 
     Separador 
     #t_7_6.titulo-segundo.color-acento-contenido.mb-3(data-aos="zoom-in-left")
@@ -484,14 +484,14 @@
 
     .bg24
       .row.justify-content-center.text-center.mb-4 
-        .col-lg-6(data-aos="fade-right")
+        .col-lg-6.my-3(data-aos="fade-right")
           .tarjeta.tarjeta-avatar.h-100
             img.img-w(src='@/assets/curso/temas/111.svg' alt='AvatarTop')
             .tarjeta.bg23.ts.h-100
               .p-4
                 h4 Directas:        
                 p.mb-0 Relacionadas con la transformación de la materia prima.       
-        .col-lg-6(data-aos="fade-left")
+        .col-lg-6.my-3(data-aos="fade-left")
           .tarjeta.tarjeta-avatar.h-100
             img.img-w(src='@/assets/curso/temas/112.svg' alt='AvatarTop')
             .tarjeta.bg23.ts.h-100

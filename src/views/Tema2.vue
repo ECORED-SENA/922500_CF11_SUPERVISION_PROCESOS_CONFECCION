@@ -20,8 +20,8 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
           span Aspectos clave del plan maestro de producción
-        .tabla.color-acento-contenido.mb-5
-          table.text-center
+        .tabla-a.color-acento-contenido.mb-5
+          table
             thead.bgh
               tr
                 th.text-center Borrador/bosquejo
@@ -48,81 +48,81 @@
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/21.png', alt='')  
         
-    .tabla.color-acento-contenido.mb-5
+    .tabla-a.color-acento-contenido.mb-5
       table.text-center
         thead.bgh
           tr
-            td.text-bold Periodo 
-            th.w-70 S1  
-            th.w-70 S2    
-            th.w-70 S3
-            th.w-70 S4 
-            th.w-70 S5 
-            th.w-70 S6 
-            th.w-70 S7 
-            th.w-70 S8 
-            th.w-70 S9 
-            th.w-70 S10 
-            th.w-70 S11 
-            th.w-70 S12 
+            td.text-bold.w-80 Periodo 
+            th S1  
+            th S2    
+            th S3
+            th S4 
+            th S5 
+            th S6 
+            th S7 
+            th S8 
+            th S9 
+            th S10 
+            th S11 
+            th S12 
 
         tbody
           tr
-            td.text-bold.bgh1 Inventario inicial
-            td.w-70 100                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70    
+            td.text-bold.bgh1.w-80 Inventario inicial
+            td 100                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td    
           tr
-            td.text-bold.bgh1 Plan de producción
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70 
+            td.text-bold.bgh1.w-80 Plan de producción
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td 
           tr
-            td.text-bold.bgh1 Pedidos                                
-            td.w-70 400                                
-            td.w-70 450                               
-            td.w-70 500                               
-            td.w-70 400                            
-            td.w-70 350                               
-            td.w-70 600                               
-            td.w-70 650                               
-            td.w-70 600                               
-            td.w-70 500                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 350
+            td.text-bold.bgh1.w-80 Pedidos                                
+            td 400                                
+            td 450                               
+            td 500                               
+            td 400                            
+            td 350                               
+            td 600                               
+            td 650                               
+            td 600                               
+            td 500                               
+            td 400                               
+            td 400                               
+            td 350
           tr
-            td.text-bold.bgh1 Inventario final
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70                                
-            td.w-70 
+            td.text-bold.bgh1.w-80 Inventario final
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td                                
+            td 
 
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8.my-3
@@ -141,81 +141,81 @@
 
     p(data-aos="fade-down").mb-5 Teniendo en cuenta que la capacidad de producción de esta empresa es de 400 unidades se continúa con el registro a partir de la fórmula de inventario final:
 
-    .tabla.color-acento-contenido.mb-5
+    .tabla-a.color-acento-contenido.mb-5
       table.text-center
         thead.bgh
           tr
-            td.text-bold Periodo 
-            th.w-70 S1  
-            th.w-70 S2    
-            th.w-70 S3
-            th.w-70 S4 
-            th.w-70 S5 
-            th.w-70 S6 
-            th.w-70 S7 
-            th.w-70 S8 
-            th.w-70 S9 
-            th.w-70 S10 
-            th.w-70 S11 
-            th.w-70 S12 
+            td.text-bold.w-80 Periodo 
+            th S1  
+            th S2    
+            th S3
+            th S4 
+            th S5 
+            th S6 
+            th S7 
+            th S8 
+            th S9 
+            th S10 
+            th S11 
+            th S12 
 
         tbody
           tr
-            td.text-bold.bgh1 Inventario inicial
-            td.w-70 100                                
-            td.w-70 100                               
-            td.w-70 50                               
-            td.w-70 -50                              
-            td.w-70 -50                               
-            td.w-70 0                            
-            td.w-70 -200                             
-            td.w-70 -450                               
-            td.w-70 -650                               
-            td.w-70 -750                           
-            td.w-70 -750                               
-            td.w-70 -750   
+            td.text-bold.bgh1.w-80 Inventario inicial
+            td 100                                
+            td 100                               
+            td 50                               
+            td -50                              
+            td -50                               
+            td 0                            
+            td -200                             
+            td -450                               
+            td -650                               
+            td -750                           
+            td -750                               
+            td -750   
           tr
-            td.text-bold.bgh1 (+) Plan de producción
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 400
+            td.text-bold.bgh1.w-80 (+) Plan de producción
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400                               
+            td 400
           tr
-            td.text-bold.bgh1 (-) Pedidos                            
-            td.w-70 400                                
-            td.w-70 450                               
-            td.w-70 500                               
-            td.w-70 400                            
-            td.w-70 350                               
-            td.w-70 600                               
-            td.w-70 650                               
-            td.w-70 600                               
-            td.w-70 500                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 350
+            td.text-bold.bgh1.w-80 (-) Pedidos                            
+            td 400                                
+            td 450                               
+            td 500                               
+            td 400                            
+            td 350                               
+            td 600                               
+            td 650                               
+            td 600                               
+            td 500                               
+            td 400                               
+            td 400                               
+            td 350
           tr
-            td.text-bold.bgh1 (=) Inventario final
-            td.w-70 100                               
-            td.w-70 50                               
-            td.w-70 -50                               
-            td.w-70 -50                               
-            td.w-70 0                               
-            td.w-70 -200                               
-            td.w-70 -450                               
-            td.w-70 -650                               
-            td.w-70 -750                               
-            td.w-70 -750                               
-            td.w-70 -750                               
-            td.w-70 -700  
+            td.text-bold.bgh1.w-80 (=) Inventario final
+            td 100                               
+            td 50                               
+            td -50                               
+            td -50                               
+            td 0                               
+            td -200                               
+            td -450                               
+            td -650                               
+            td -750                               
+            td -750                               
+            td -750                               
+            td -700  
 
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8.my-3
@@ -225,81 +225,81 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/23.png', alt='')  
     p(data-aos="fade-down").mb-5 De acuerdo con eso el plan de producción queda de la siguiente manera:
 
-    .tabla.color-acento-contenido.mb-5
+    .tabla-a.color-acento-contenido.mb-5
       table.text-center
         thead.bgh
           tr
-            td.text-bold Periodo 
-            th.w-70 S1  
-            th.w-70 S2    
-            th.w-70 S3
-            th.w-70 S4 
-            th.w-70 S5 
-            th.w-70 S6 
-            th.w-70 S7 
-            th.w-70 S8 
-            th.w-70 S9 
-            th.w-70 S10 
-            th.w-70 S11 
-            th.w-70 S12 
+            td.text-bold.w-80 Periodo 
+            th S1  
+            th S2    
+            th S3
+            th S4 
+            th S5 
+            th S6 
+            th S7 
+            th S8 
+            th S9 
+            th S10 
+            th S11 
+            th S12 
 
         tbody
           tr
-            td.text-bold.bgh1 Inventario inicial
-            td.w-70 100                                
-            td.w-70 100                               
-            td.w-70 150                               
-            td.w-70 150                               
-            td.w-70 250                               
-            td.w-70 400                               
-            td.w-70 300                               
-            td.w-70 150                               
-            td.w-70 50                               
-            td.w-70 50                               
-            td.w-70 150                               
-            td.w-70 150   
+            td.text-bold.bgh1.w-80 Inventario inicial
+            td 100                                
+            td 100                               
+            td 150                               
+            td 150                               
+            td 250                               
+            td 400                               
+            td 300                               
+            td 150                               
+            td 50                               
+            td 50                               
+            td 150                               
+            td 150   
           tr
-            td.text-bold.bgh1 (+) Plan de producción
-            td.w-70 400                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 500                               
-            td.w-70 400                               
-            td.w-70 400
+            td.text-bold.bgh1.w-80 (+) Plan de producción
+            td 400                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 500                               
+            td 400                               
+            td 400
           tr
-            td.text-bold.bgh1 (-) Pedidos                                
-            td.w-70 400                                
-            td.w-70 450                               
-            td.w-70 500                               
-            td.w-70 400                            
-            td.w-70 350                               
-            td.w-70 600                               
-            td.w-70 650                               
-            td.w-70 600                               
-            td.w-70 500                               
-            td.w-70 400                               
-            td.w-70 400                               
-            td.w-70 350
+            td.text-bold.bgh1.w-80 (-) Pedidos                                
+            td 400                                
+            td 450                               
+            td 500                               
+            td 400                            
+            td 350                               
+            td 600                               
+            td 650                               
+            td 600                               
+            td 500                               
+            td 400                               
+            td 400                               
+            td 350
           tr
-            td.text-bold.bgh1 (=) Inventario final
-            td.w-70 100                               
-            td.w-70 150                               
-            td.w-70 150                               
-            td.w-70 250                               
-            td.w-70 400                               
-            td.w-70 300                               
-            td.w-70 150                               
-            td.w-70 50                               
-            td.w-70 50                               
-            td.w-70 150                               
-            td.w-70 150                               
-            td.w-70 200
+            td.text-bold.bgh1.w-80 (=) Inventario final
+            td 100                               
+            td 150                               
+            td 150                               
+            td 250                               
+            td 400                               
+            td 300                               
+            td 150                               
+            td 50                               
+            td 50                               
+            td 150                               
+            td 150                               
+            td 200
 
     SlyderF.text-center.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
       .tarjeta.tarjeta-avatar.h-100
@@ -361,8 +361,8 @@
     p(data-aos="fade-down") Las maneras o metodologías de fabricación de productos son determinantes a la hora de realizar un plan maestro de producción PMP o MRP, los métodos determinan las cantidades por lote y el manejo que se le da a los materiales y los inventarios.                    
     p(data-aos="fade-down").mb-5 Los tipos de proceso productivo en una empresa son los siguientes:
 
-    .row.justify-content-center.align-items-center         
-      .col-lg-6.my-2
+    .row.justify-content-center       
+      .col-lg-6.my-2.d-none.d-lg-block  
         .bg6.brad1             
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
@@ -371,7 +371,7 @@
               .p-4
                 h5(data-aos="fade-down") Producción por lotes
                 p(data-aos="fade-down").mb-0 Proceso que fabrica continuamente una cantidad pequeña de productos con características similares. Se identifican por medio de referencias, códigos o figuras que diferencian cada lote con respecto a otro.  
-      .col-lg-6.my-2
+      .col-lg-6.my-2.d-none.d-lg-block  
         .bg6.brad1
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
@@ -381,8 +381,8 @@
                 h5(data-aos="fade-down") Producción por trabajo o bajo pedido 
                 p(data-aos="fade-down").mb-0 Proceso que fabrica solo un producto o referencia a la vez, por lo que cada producto tiene especificaciones diferentes. Se realiza toda la secuencia para ese pedido: asentar documento, órdenes de compra y de producción, fabricación y terminación.          
                          
-    .row.justify-content-center.align-items-center         
-      .col-lg-6.my-2
+       
+      .col-lg-6.my-2.d-none.d-lg-block  
         .bg6.brad1             
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
@@ -391,7 +391,7 @@
               .p-4
                 h5(data-aos="fade-down") Producción en masa
                 p(data-aos="fade-down").mb-0 Es la manera que se utiliza para fabricar grandes cantidades, usualmente, del mismo producto, se acostumbra un gran nivel de automatización en las metodologías y en los equipos que se emplean.
-      .col-lg-6.my-2
+      .col-lg-6.my-2.d-none.d-lg-block  
         .bg6.brad1
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
@@ -400,7 +400,28 @@
               .p-4
                 h5(data-aos="fade-down") Producción continua o de flujo continuo
                 p(data-aos="fade-down").mb-0 Se caracteriza por la frecuencia, la fluidez y la repetición de sus operaciones, la estandarización es un elemento importante en este tipo de producción. Se manufacturan muchas cantidades de unidades. Debe cumplir condiciones de productos, materias primas y maquinarias que permitan trabajar 24/7 generalmente.           
-                                                  
+    .row.justify-content-center        
+      .col-md-6.col-sm-12.my-2.d-block.d-lg-none
+        img(data-aos="zoom-in")(src='@/assets/curso/temas/31_1.png')
+        .bg6.p-4.long1     
+          h5(data-aos="fade-down") Producción por lotes
+          p(data-aos="fade-down").mb-0 Proceso que fabrica continuamente una cantidad pequeña de productos con características similares. Se identifican por medio de referencias, códigos o figuras que diferencian cada lote con respecto a otro.  
+      .col-md-6.col-sm-12.my-2.d-block.d-lg-none
+        img(data-aos="zoom-in")(src='@/assets/curso/temas/32_1.png')
+        .bg6.p-4.long1     
+          h5(data-aos="fade-down") Producción por trabajo o bajo pedido 
+          p(data-aos="fade-down").mb-0 Proceso que fabrica solo un producto o referencia a la vez, por lo que cada producto tiene especificaciones diferentes. Se realiza toda la secuencia para ese pedido: asentar documento, órdenes de compra y de producción, fabricación y terminación.   
+      .col-md-6.col-sm-12.my-2.d-block.d-lg-none
+        img(data-aos="zoom-in")(src='@/assets/curso/temas/33_1.png')
+        .bg6.p-4.long1     
+          h5(data-aos="fade-down") Producción en masa
+          p(data-aos="fade-down").mb-0 Es la manera que se utiliza para fabricar grandes cantidades, usualmente, del mismo producto, se acostumbra un gran nivel de automatización en las metodologías y en los equipos que se emplean.
+      .col-md-6.col-sm-12.my-2.d-block.d-lg-none
+        img(data-aos="zoom-in")(src='@/assets/curso/temas/34_1.png')
+        .bg6.p-4.long1     
+          h5(data-aos="fade-down") Producción continua o de flujo continuo
+          p(data-aos="fade-down").mb-0 Se caracteriza por la frecuencia, la fluidez y la repetición de sus operaciones, la estandarización es un elemento importante en este tipo de producción. Se manufacturan muchas cantidades de unidades. Debe cumplir condiciones de productos, materias primas y maquinarias que permitan trabajar 24/7 generalmente.                  
+
 </template>
 
 <script>

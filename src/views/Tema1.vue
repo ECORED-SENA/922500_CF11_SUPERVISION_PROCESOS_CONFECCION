@@ -62,7 +62,7 @@
     p(data-aos="fade-down").mb-5 Las características principales que se manejan en un PMP son:
     .bg2.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-center       
-        .col-auto
+        .col-lg-auto.mb-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')     
 
         .col
@@ -117,8 +117,8 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Requerimientos para elaboración de un PMP
-        .tabla.color-acento-contenido.mb-5
-          table.text-center
+        .tabla-a.color-acento-contenido.mb-5
+          table
             thead.bgh
               tr
                 th.text-center.tbright Información
@@ -138,22 +138,22 @@
             figure
               img.img-a.img-t(src='@/assets/curso/temas/10.svg', alt='pasos que deben seguirse en la elaboración del plan de producción')
 
-          .tarjeta.color-secundario.p-3(x="16.8%" y="8.5%" numero="1")
+          .tarjeta.color-secundario.p-3(x="20%" y="15%" numero="1")
             .h5 Estimación o pronóstico de la demanda de productos  
             p.mb-0 También denominado presupuesto de ventas, hace referencia a las cantidades que se esperan comercializar.                
-          .tarjeta.color-secundario.p-3(x="16.8%" y="32.5%" numero="2")
+          .tarjeta.color-secundario.p-3(x="20%" y="35%" numero="2")
             .h5 Plan maestro de producción – PMP  
             p.mb-0 Estimar cantidades, fechas, productos o referencias.        
-          .tarjeta.color-secundario.p-3(x="59%" y="32.3%" numero="3")
+          .tarjeta.color-secundario.p-3(x="59%" y="35%" numero="3")
             .h5 Número de unidades 
             p.mb-0 Número de unidades que se pueden producir de acuerdo con el número de personas incorporadas al proceso, minutos instalados u horario de trabajo y turnos, y tiempo requerido para la fabricación del producto (estándar). Para aumentarla, inicialmente lo recomendable es no contratar más personal, ni aumentar el horario de trabajo, sino revisar el método de hacer las cosas.   
-          .tarjeta.color-secundario.p-3(x="16.8%" y="56%" numero="4")
+          .tarjeta.color-secundario.p-3(x="20%" y="55%" numero="4")
             .h5 Planeación de requerimiento de materiales (MRP)  
             p.mb-0 Calcular los materiales e insumos necesarios para desarrollar los proyectos.            
-          .tarjeta.color-secundario.p-3(x="16.8%" y="76.3%" numero="5")
+          .tarjeta.color-secundario.p-3(x="20%" y="72.5%" numero="5")
             .h5 Origen de la orden de producción 
             p.mb-0 Del MRP se originan la orden de producción, el plan de materiales y de compras.        
-          .tarjeta.color-secundario.p-3(x="22.4%" y="95%" numero="6")
+          .tarjeta.color-secundario.p-3(x="25.5%" y="88%" numero="6")
             .h5 Control de plantas 
             p.mb-0 Hacer seguimiento para verificar el cumplimiento de los planes elaborados.
 
@@ -166,64 +166,55 @@
         LineaTiempoE.color-acento-contenido
           .row(titulo="1")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/11.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/11.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Volumen de producción a procesar
               p.mb-0 Ayuda a obtener de manera muy acertada las cantidades de productos a elaborar. 
           .row(titulo="2")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/12.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/12.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Fechas límites de entregas
               p.mb-0 Además de saber las cantidades, el PMP también ayuda a definir las fechas de entrega, de acuerdo con los recursos disponibles. 
           .row(titulo="3")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/13.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/13.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Información actual de los inventarios
               p.mb-0 Cuando se tiene la información anterior se pueden establecer las cantidades actuales que se tiene en el inventario disponible o las cantidades necesarias, esto ayuda a tomar decisiones acertadas en ese aspecto. 
           .row(titulo="4")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/14.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/14.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Capacidad disponible
               p.mb-0 Si se conoce las capacidades de producción (capacidad instalada) y las cantidades demandadas (pedidos) se pueden establecer fechas de entrega más acertadas o se pueden tomar acciones para aumentar la capacidad de producción. 
           .row(titulo="5")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/15.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/15.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Fórmula de capacidad disponible
               p.mb-0 Recuerde: #[b pedidos vs. capacidad instalada = capacidad disponible] 
           .row(titulo="6")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/16.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/16.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Mejor acompañamiento a la producción
               p.mb-0 Cuando se dimensionan los procesos de fabricación, las cantidades y las fechas y se comparan con los presupuestos de demandas y pedidos, se pueden visualizar fácilmente todas las actividades y se pueden tomar acciones de mejora más oportunas. 
           .row(titulo="7")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/17.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/17.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Mejor aprovechamiento de los recursos
               p.mb-0 A veces se requiere dar prioridades a ciertos pedidos, mediante un PMP se puede identificar fortalezas y/o restricciones, y de esa manera utilizar a favor esas condiciones. 
           .row(titulo="8")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/18.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/18.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Medición de los desempeños
               p.mb-0 De acuerdo con los despachos esperados y los reales se pueden medir eficiencias en el proceso. 
           .row(titulo="9")(data-aos="fade-left")
             .col-lg-2.mb-3.mb-lg-0
-              figure
-                img.img200(src='@/assets/curso/temas/19.svg', alt='')
+              img.img-t(src='@/assets/curso/temas/19.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Cálculo de costos
               p.mb-0 El PMP proporciona datos que ayudan a calcular la utilización de recursos, por ende, de costos y, finalmente sirve hasta para fijar precios de venta. 

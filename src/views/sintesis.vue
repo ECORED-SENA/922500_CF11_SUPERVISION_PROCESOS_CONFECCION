@@ -7,8 +7,8 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(data-aos="zoom-in")(src="@/assets/curso/temas/sintesis.svg", alt="alt")
-      .col-auto
+          img(data-aos="zoom-in")(src="@/assets/curso/temas/sintesis.svg", alt="Esquema general de este componente formativo que enuncia las temáticas desarrolladas en el mismo y destaca aspectos clave, estudiados. Tema principal: Plan maestro de producción; este abarca temas integradores: plan maestro, elaboración del plan maestro, plan de requerimiento de materiales, modelos gráficos de programación, plan agregado de producción, vinculación de software de producción y planeación de la producción")
+      .col-lg-auto.mb-3
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
