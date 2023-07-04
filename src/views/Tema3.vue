@@ -138,35 +138,35 @@
       h5(data-aos="fade-down").mb-3 Pasos para la construcción del RMP 
 
       .row.justify-content-center.text-center 
-        .col-lg.mb-3
+        .col-lg.col-md-6.mb-3
           .tarjeta.tarjeta-avatar.h-100
             img.img-w1(src='@/assets/curso/temas/41.svg' alt='AvatarTop')
             .tarjeta.bg9.ts.h-100
               .p-4
                 h4 Productos y materiales           
                 p.mb-0 Conocer los productos y los materiales que lo componen, igual los proveedores y los consumos por unidad, esta última información viene en la ficha técnica. 
-        .col-lg.mb-3
+        .col-lg.col-md-6.mb-3
           .tarjeta.tarjeta-avatar.h-100
             img.img-w1(src='@/assets/curso/temas/42.svg' alt='AvatarTop')
             .tarjeta.bg9.ts.h-100
               .p-4
                 h4 Plan maestro           
                 p.mb-0 Se requiere que ya esté elaborado el plan maestro de producción (PMP), de lo contrario construir uno. Con la información obtenida de este se tiene en cuenta la cantidad de unidades y en qué tiempo se puede comenzar. 
-        .col-lg.mb-3
+        .col-lg.col-md-6.mb-3
           .tarjeta.tarjeta-avatar.h-100
             img.img-w1(src='@/assets/curso/temas/43.svg' alt='AvatarTop')
             .tarjeta.bg9.ts.h-100
               .p-4
                 h4 Actualización de registros           
                 p.mb-0 Actualizar los registros de inventarios de todos los insumos y materiales de la compañía, al inicio, en proceso y al finalizar. 
-        .col-lg.mb-3
+        .col-lg.col-md-6.mb-3
           .tarjeta.tarjeta-avatar.h-100
             img.img-w1(src='@/assets/curso/temas/44.svg' alt='AvatarTop')
             .tarjeta.bg9.ts.h-100
               .p-4
                 h4 Información completa           
                 p.mb-0 Ingresar todos los datos anteriores en un software diseñado para poder consultar todos los movimientos, estados y cálculos de medidas. 
-        .col-lg.mb-3
+        .col-lg.col-md-6.mb-3
           .tarjeta.tarjeta-avatar.h-100
             img.img-w1(src='@/assets/curso/temas/45.svg' alt='AvatarTop')
             .tarjeta.bg9.ts.h-100
