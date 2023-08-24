@@ -11,7 +11,7 @@
       .col-lg-5.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')               
       .col-lg-7.my-3
-        p(data-aos="fade-down") Así como el PMP ayuda a determinar fechas de entrega de pedidos de acuerdo con ciertas variables, el plan de requerimiento de materiales (MRP) se utiliza para ayudar a lograr que el movimiento de materiales e insumos lleguen en las cantidades correctas y en el tiempo apropiado.
+        p(data-aos="fade-down") Así como el #[i Material Requirements Planning] - MRP ayuda a determinar fechas de entrega de pedidos de acuerdo con ciertas variables, el plan de requerimiento de materiales (MRP) se utiliza para ayudar a lograr que el movimiento de materiales e insumos lleguen en las cantidades correctas y en el tiempo apropiado.
 
         p(data-aos="fade-down") La información que traen las fichas técnicas en relación con los materiales, insumos y características de producción son el insumo principal para que en compañía de una orden de producción (OP) se establezcan las cantidades de los recursos necesarios para la elaboración de un lote, por ejemplo, de prendas de vestir.   
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
@@ -29,10 +29,10 @@
           ul.lista-ul.mb-0.fa-ul
             li 
               i.lista-ul__vineta
-              | El listado de materiales
+              | El listado de materiales.
             li 
               i.lista-ul__vineta
-              | El PMP y el registro de inventarios
+              | El PMP y el registro de inventarios.
             li 
               i.lista-ul__vineta
               | Luego, en la línea media se tiene el sistema MRP que procesa esa información y emite como salida del proceso información de varios niveles de datos de materiales, de insumos y de movimiento de inventarios.   

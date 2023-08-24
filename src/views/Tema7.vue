@@ -14,7 +14,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/AiUP8RuYsRU?si=rFepUs3HQBU6WI0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. La planeación de la producción
             
     Separador 
     #t_7_1.titulo-segundo.color-acento-contenido.mb-3(data-aos="zoom-in-left")
@@ -39,6 +40,7 @@
   
     .row.justify-content-center.align-items-center.bg17.py-4.mb-5(data-aos="flip-down")         
       .col-lg-10
+        h4(data-aos="fade-down").text-center ¡Construcción de la orden! 
         p(data-aos="fade-down").mb-0 Es de destacar que la orden de producción se construye con base en las órdenes de pedido que genera el departamento comercial de la empresa y es una matriz que se convirtió en documento indispensable con contenido técnico e informativo para la construcción de las prendas de vestir.
 
     h4(data-aos="fade-down").t1 Aplicación orden de producción
@@ -65,7 +67,7 @@
       .col-lg-7.my-3
         p(data-aos="fade-down") Un trabajo programado y ordenado garantiza obtener productos que salen al mercado con todas las condiciones para las que fueron creados, esto es lo que permite una orden de producción, al organizar toda la información de una ficha técnica, con la cual será posible crear un flujo de proceso programático, métodos y tiempos de ruta de proceso, entre otros.
 
-        p(data-aos="fade-down") Un trabajo programado y ordenado Al interior de los equipos de trabajo, la orden de producción mantiene una sinergia al equilibrar todas las cargas pertinentes, donde la calidad de la información que ésta contiene garantiza productos conformes que llenan las expectativas de su receptor final.
+        p(data-aos="fade-down") Al interior de los equipos de trabajo, la orden de producción mantiene una sinergia al equilibrar todas las cargas pertinentes, donde la calidad de la información que ésta contiene garantiza productos conformes que llenan las expectativas de su receptor final. 
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Concebida de esta manera, la matriz de la orden de producción se convierte en una carta de navegación y se obtiene de ella un resultado final óptimo, con lineamientos claros como el hecho de describir la ruta de proceso hasta una ficha de empaque, lo que permite que los equipos de trabajo sean polifuncionales.    
       .col-lg-5.my-3 

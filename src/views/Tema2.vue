@@ -216,7 +216,7 @@
             td -750                               
             td -750                               
             td -700  
-
+    p(data-aos="fade-down") Se puede observar que al inicio se satisface la demanda, pero luego aparecen cifras negativas.
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8.my-3
         .bg5.brad1.p-4.mb-3(data-aos="flip-down")
@@ -301,6 +301,11 @@
             td 150                               
             td 200
 
+    p(data-aos="fade-down") Si la demanda, de manera habitual sigue siendo superior a la capacidad de producción, se tendrá que aumentar la capacidad de producción, ya no de manera temporal, sino permanentemente.
+
+    p(data-aos="fade-down").mb-5 En este punto se puede concluir que, para diseñar un plan maestro de producción (PMP), es importante contar con la siguiente información e identificar su procedencia:
+
+
     SlyderF.text-center.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
       .tarjeta.tarjeta-avatar.h-100
         img.img-w(src='@/assets/curso/temas/24.svg' alt='AvatarTop')
@@ -363,7 +368,7 @@
 
     .row.justify-content-center       
       .col-lg-6.my-2.d-none.d-lg-block  
-        .bg6.brad1             
+        .bg6.brad1.h-100             
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
               img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/31.png')     
@@ -372,7 +377,7 @@
                 h5(data-aos="fade-down") Producción por lotes
                 p(data-aos="fade-down").mb-0 Proceso que fabrica continuamente una cantidad pequeña de productos con características similares. Se identifican por medio de referencias, códigos o figuras que diferencian cada lote con respecto a otro.  
       .col-lg-6.my-2.d-none.d-lg-block  
-        .bg6.brad1
+        .bg6.brad1.h-100
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
               img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/32.png')     
@@ -383,16 +388,16 @@
                          
        
       .col-lg-6.my-2.d-none.d-lg-block  
-        .bg6.brad1             
+        .bg6.brad1.h-100             
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
               img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/33.png')     
             .col-lg-8(data-aos="fade-down") 
-              .p-4
+              .p-4.j2
                 h5(data-aos="fade-down") Producción en masa
                 p(data-aos="fade-down").mb-0 Es la manera que se utiliza para fabricar grandes cantidades, usualmente, del mismo producto, se acostumbra un gran nivel de automatización en las metodologías y en los equipos que se emplean.
       .col-lg-6.my-2.d-none.d-lg-block  
-        .bg6.brad1
+        .bg6.brad1.h-100
           .row.justify-content-center.align-items-center
             .col-lg-4.p-0
               img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/34.png')     

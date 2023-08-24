@@ -36,8 +36,8 @@
 
         .tarjeta.bg1.ts.h-100
           .p-4
-            h4 Master Production Schedule 
-            p.mb-0 El plan maestro de producción (PMP) también es conocido como MPS por sus siglas en inglés Master Production Schedule, consiste en la planeación a nivel operativo, se encarga de revisar los pronósticos del mercado y los pedidos que se hayan producido   
+            h4 #[i Master Production Schedule] 
+            p.mb-0 El plan maestro de producción (PMP) también es conocido como MPS por sus siglas en inglés #[i Master Production Schedule], consiste en la planeación a nivel operativo, se encarga de revisar los pronósticos del mercado y los pedidos que se hayan producido   
       .tarjeta.tarjeta-avatar.h-100
         img.img-w(src='@/assets/curso/temas/4.svg' alt='AvatarTop')
 
@@ -89,11 +89,11 @@
       .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="Pronóstico de demanda")
         .row.justify-content-center.align-items-center
           .col-12
-            p.mb-0 Un PMP es muy importante porque permite estimar la cantidad de ventas de determinados productos en determinados períodos de tiempo y a su vez, relacionarlos con la capacidad de producción. Se puede trabajar con datos históricos o estudios de mercadeo, entre otros 
+            p.mb-0 Un PMP es muy importante porque permite estimar la cantidad de ventas de determinados productos en determinados períodos de tiempo y a su vez, relacionarlos con la capacidad de producción. Se puede trabajar con datos históricos o estudios de mercadeo, entre otros. 
       .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="Pedidos de los clientes")
         .row.justify-content-center.align-items-center
           .col-12
-            p.mb-0 Una cosa es presupuestar o pronosticar las cantidades que se van a despachar y otra son los pedidos reales que van llegando, es importante saber distinguir ambas cifras para poder elaborar un buen PMP. Los pedidos reales son los que se tienen por escrito, consignados en un talonario, en una base de datos o en un software diseñado para ese propósito. 
+            p.mb-0 Una cosa es presupuestar o pronosticar las cantidades que se van a despachar y otra son los pedidos reales que van llegando, es importante saber distinguir ambas cifras para poder elaborar un buen PMP. Los pedidos reales son los que se tienen por escrito, consignados en un talonario, en una base de datos o en un #[i software] diseñado para ese propósito. 
       .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="Cantidad de los lotes de<br> producción")
         .row.justify-content-center.align-items-center
           .col-12
@@ -103,6 +103,7 @@
           .col-12
             p.mb-0 Tiene que ver con el número de operarios, el horario de las jornadas de trabajo y la cantidad de tiempo que se gasta en la manufactura o elaboración de ese producto (estándar). Es imposible construir un PMP sin tener información de la capacidad instalada y de todos los elementos que la componen. Solo así se puede hacer una promesa de fecha de entrega.   
 
+    h4.mb-4(data-aos="fade-down") Requerimientos para el plan maestro de producción 
     .row.justify-content-center.align-items-center.bg3.mb-5
       .col-lg-8(data-aos="fade-down") 
         p(data-aos="fade-down").mb-0.p-4 Se podría definir el término producción como el conjunto de actividades que agrega valor al proceso para obtener un bien o un servicio, por ejemplo, un rollo de tela solo no es mucho, si se le dibuja un molde, se corta, luego se estampan las piezas, después se confeccionan o ensamblan, posteriormente se lavan o tiñen, se pulen, se doblan, etc., a medida que se realiza cada actividad, esta le va agregando valor y la va enriqueciendo, hasta finalizar en una prenda de vestir.   
@@ -127,7 +128,7 @@
             tbody
               tr
                 td.p-4 La información necesaria para realizar los cálculos que permiten identificar fechas y cantidades de entrega, para saber si cumplen con las expectativas de los clientes y si no para replantearlas y lograr niveles de satisfacción altos. 
-                td.p-4 Para elaborar el PMP se requiere de información que se obtiene al formular y responder preguntas como #[b ¿qué se hace?, ¿cuánto se pretende hacer?, ¿realmente cuánto piden?, ¿cada cuánto se hace?, ¿en qué cantidades se hace?, ¿cuántas personas lo hacen? y ¿en cuántos turnos se hace?] 
+                td.p-4 Para elaborar el PMP se requiere de información que se obtiene al formular y responder preguntas como: #[b ¿qué se hace?, ¿cuánto se pretende hacer?, ¿realmente cuánto piden?, ¿cada cuánto se hace?, ¿en qué cantidades se hace?, ¿cuántas personas lo hacen? y ¿en cuántos turnos se hace?] 
 
     p(data-aos="fade-down").mb-5 Preste atención a los pasos que deben seguirse en la elaboración del plan de producción, los cuales son: 
 
@@ -157,9 +158,9 @@
             .h5 Control de plantas 
             p.mb-0 Hacer seguimiento para verificar el cumplimiento de los planes elaborados.
 
-    p(data-aos="fade-down") En cuanto a los resultados del plan maestro de producción, su elaboración correcta ayuda a interpretar, visualizar y establecer:
-
     h4(data-aos="fade-down").t1.mb-5 Resultados y beneficios del Plan Maestro de Producción   
+  
+    p(data-aos="fade-down") En cuanto a los resultados del plan maestro de producción, su elaboración correcta ayuda a interpretar, visualizar y establecer:
 
     .row
       .col-12

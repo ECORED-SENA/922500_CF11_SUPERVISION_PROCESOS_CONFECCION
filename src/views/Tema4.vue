@@ -66,7 +66,7 @@
                   h4(data-aos="fade-down") Ejemplo de aplicación del Gráfico de Gantt
                   p(data-aos="fade-down").mb-0 Analice el ejemplo que se muestra en el Anexo_1_ AplicacionDelGraficoDeGantt
                 .col-sm-auto
-                  a.boton.color-primario(:href="obtenerLink('/downloads/Anexo_1_AplicacionDelGraficoDeGantt.pdf')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/Anexo_1_ AplicacionDelGraficoDeGantt.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
           .dot.my-4 
@@ -78,7 +78,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4(data-aos="fade-down") Diagrama de Gantt
-                  p(data-aos="fade-down").mb-0 Observe con atención el video “DiagramaDeGantt”, que se encuentra en el material complementario y detalle las generalidades para la construcción de un Diagrama de Gantt.
+                  p(data-aos="fade-down").mb-0 Observe con atención el video “Diagrama de GANTT”, que se encuentra en el material complementario y detalle las generalidades para la construcción de un Diagrama de Gantt.
                 .col-sm-auto
                   a.boton.color-primario(href="https://youtu.be/oDFbPhmgqLQ" target="_blank")
                     span Ver video
@@ -142,7 +142,7 @@
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Instruccionalidad
-            p Se podría definir entonces que la programación en las máquinas es enviar instrucciones que permiten acciones que siguen a otras en secuencia, por ejemplo, un software de diseño emite instrucciones que permiten que funcione el diseño, y que dos o tres procesos posteriores, también se realicen.
+            p Se podría definir entonces que la programación en las máquinas es enviar instrucciones que permiten acciones que siguen a otras en secuencia, por ejemplo, un #[i software] de diseño emite instrucciones que permiten que funcione el diseño, y que dos o tres procesos posteriores, también se realicen.
         
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/53.png', alt='')     
