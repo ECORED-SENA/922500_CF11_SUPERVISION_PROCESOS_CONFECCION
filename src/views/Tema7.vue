@@ -25,7 +25,7 @@
       .col-lg-5.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/77.png', alt='')      
       .col-lg-7.my-3
-        p(data-aos="fade-down") La orden de producción es un documento, matriz o cuadro de control, donde se registra la cantidad de unidades a programar, ya sean materias primas, insumos y todos los procesos anexos al desarrollo de la producción para ser enviada a un proveedor de servicio, ya sea interno o externo. Según Arredondo (2015) esta orden es un documento de numeración única, como una cédula de ciudadanía; es decir, no se repite, se puede duplicar la referenciación, más no la numeración de la orden. Por consiguiente, se genera toda la trazabilidad de los costos de producción asociados.
+        p(data-aos="fade-down") La orden de producción es un documento, matriz o cuadro de control, donde se registra la cantidad de unidades a programar, ya sean materias primas, insumos y todos los procesos anexos al desarrollo de la producción, para ser enviada a un proveedor de servicio, ya sea interno o externo. Según Arredondo (2015) esta orden es un documento de numeración única, como una cédula de ciudadanía; es decir, no se repite, se puede duplicar la referenciación, más no la numeración de la orden. Por consiguiente, se genera toda la trazabilidad de los costos de producción asociados.
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 El sistema de órdenes de producción se crea en la industria textil de confección para cubrir la necesidad de individualizar los costos. A través de este método es posible establecer una organización de la producción en la que se genera una gran variedad de artículos que serán comercializados teniendo en cuenta la oferta o demanda del mercado.
               
@@ -67,7 +67,7 @@
       .col-lg-7.my-3
         p(data-aos="fade-down") Un trabajo programado y ordenado garantiza obtener productos que salen al mercado con todas las condiciones para las que fueron creados, esto es lo que permite una orden de producción, al organizar toda la información de una ficha técnica, con la cual será posible crear un flujo de proceso programático, métodos y tiempos de ruta de proceso, entre otros.
 
-        p(data-aos="fade-down") Al interior de los equipos de trabajo, la orden de producción mantiene una sinergia al equilibrar todas las cargas pertinentes, donde la calidad de la información que ésta contiene garantiza productos conformes que llenan las expectativas de su receptor final. 
+        p(data-aos="fade-down") Al interior de los equipos de trabajo, la orden de producción mantiene una sinergia al equilibrar todas las cargas pertinentes, donde la calidad de la información que esta contiene garantiza productos conformes que llenan las expectativas de su receptor final. 
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Concebida de esta manera, la matriz de la orden de producción se convierte en una carta de navegación y se obtiene de ella un resultado final óptimo, con lineamientos claros como el hecho de describir la ruta de proceso hasta una ficha de empaque, lo que permite que los equipos de trabajo sean polifuncionales.    
       .col-lg-5.my-3 
@@ -200,7 +200,7 @@
 
         p(data-aos="fade-down") Es de tener en cuenta que el comportamiento de la demanda de la producción es incierto y factores ocasionales tales como, precios, sobreoferta, comportamientos políticos, entre otros, hacen que la naturaleza de un pronóstico esté orientada a obtener resultados positivos previendo algunas situaciones que se pueden presentar, con el fin de evitar posibles efectos negativos.
 
-        p(data-aos="fade-down") Por consiguiente, para que un pronóstico sea responsable en sus resultados finales debe presentar ciertas condiciones, tales como:
+        p(data-aos="fade-down") Por consiguiente, para que un pronóstico sea responsable en sus resultados finales, debe presentar ciertas condiciones, tales como:
 
     .bg2.p-3.mb-5(data-aos="flip-down")
       .row.justify-content-center.align-items-center       
@@ -238,7 +238,7 @@
             p.mb-0 El análisis por comportamientos estadísticos y cuadros de control diseñados en la empresa es un método que presenta una relación directa entre el pasado y el futuro estadístico de las compañías, promedios, desviaciones, medidas de tendencia central y de dispersión para direccionar la estrategia de planeación estratégica de la compañía.                         
 
     h4(data-aos="fade-down").t1 Beneficios de los pronósticos de producción
-    p(data-aos="fade-down").mb-5 Es cierto que nadie puede planear el futuro con precisión y menos empleando datos pasados, pero el valor de los pronósticos sobre todo en el contexto productivo puede ser útil para lo siguiente: 
+    p(data-aos="fade-down").mb-5 Es cierto que nadie puede planear el futuro con precisión y menos empleando datos pasados, pero el valor de los pronósticos sobre todo en el contexto productivo, puede ser útil para lo siguiente: 
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8
         .bg19.p-4(data-aos="fade-left")
@@ -308,7 +308,7 @@
         .row.justify-content-center.mt-3
           .col-lg-6.mb-4.mb-md-0.my-3
             h4 Gestión de procesos interconectados 
-            p Tener en cuenta los índices de eficiencia relacionado al cumplimiento de metas numéricas, índice de calidad asociado al fortalecimiento del producto o servicio, y el cumplimiento de las fechas de entrega del producto o servicio. 
+            p Tener en cuenta los índices de eficiencia relacionados al cumplimiento de metas numéricas, índice de calidad asociado al fortalecimiento del producto o servicio, y el cumplimiento de las fechas de entrega del producto o servicio. 
           .col-lg-5.my-3
             img.img-a.img-t(src='@/assets/curso/temas/95.png', alt='') 
         .row.justify-content-center.mt-3
@@ -503,7 +503,7 @@
 
       p(data-aos="fade-down") De esta forma, la planeación se constituye como la base de los distintos procesos, en la que se organizan logísticamente todas las funciones de los elementos que están relacionados con el producto o servicio. Así, el conocimiento profundo de cada una de estas funciones determinará su importancia en la consecución de la producción establecida.
 
-      p(data-aos="fade-down").mb-5 Las siguientes, son las funciones más importantes de la planeación: 
+      p(data-aos="fade-down").mb-5 Las siguientes son las funciones más importantes de la planeación: 
       .row.justify-content-center.align-items-center          
         .col-lg-12.up
           SlyderF.text-center.mb-3(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
@@ -518,7 +518,7 @@
               .tarjeta.bg25.ts.h-100
                 .p-4
                   h4 Función de ingeniería          
-                  p.mb-0 El propósito de esta función en la planeación consiste en determinar el método de trabajo y el tiempo, además del tipo o estándar de la operación y que éste sea compatible con la tecnología, materias primas y lugar de trabajo. Esta función conduce a una de las aristas más importantes de la planeación como es el listado de operaciones.   
+                  p.mb-0 El propósito de esta función en la planeación consiste en determinar el método de trabajo y el tiempo, además del tipo o estándar de la operación y que este sea compatible con la tecnología, materias primas y lugar de trabajo. Esta función conduce a una de las aristas más importantes de la planeación, como es el listado de operaciones.   
             .tarjeta.tarjeta-avatar.h-100
               img.img-w(src='@/assets/curso/temas/115.svg' alt='AvatarTop')
               .tarjeta.bg25.ts.h-100
@@ -536,7 +536,7 @@
               .tarjeta.bg25.ts.h-100
                 .p-4
                   h4 Establecimiento de matriz de funcionalidad          
-                  p.mb-0 Se define como el conocimiento profundo del factor humano y su relación directa con el producto. El personal siendo tan sensible y fluctuante no debe alterar resultados, la dispersión de los indicadores de piso debe ser mínima ya que pueden traer problemas financieros a la compañía.
+                  p.mb-0 Se define como el conocimiento profundo del factor humano y su relación directa con el producto. El personal siendo tan sensible y fluctuante no debe alterar resultados, la dispersión de los indicadores de piso debe ser mínima, ya que pueden traer problemas financieros a la compañía.
             .tarjeta.tarjeta-avatar.h-100
               img.img-w(src='@/assets/curso/temas/118.svg' alt='AvatarTop')
               .tarjeta.bg25.ts.h-100

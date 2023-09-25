@@ -73,7 +73,7 @@
       .col-lg-8(data-aos="fade-down") 
         .p-4 
           h5(data-aos="fade-down") Sistema MRP
-          p(data-aos="fade-down").mb-0 El MRP es una herramienta que ayuda a que la información esté en el momento y en el departamento indicado de forma que se aprovechan mejor los recursos y así se satisface mejor al cliente. Se podría decir que es un sistema de planificación de la producción que, en términos generales, ayuda a planear y controlar la cadena de suministros. Si esta tarea se realiza adecuadamente los productos y servicios llegarán al cliente cumpliendo especificaciones de tiempo y calidad, logrando un nivel de satisfacción alto y, por ende, se logrará el éxito en la gestión administrativa y de producción. 
+          p(data-aos="fade-down").mb-0 El MRP es una herramienta que ayuda a que la información esté en el momento y en el departamento indicado de forma que se aprovechan mejor los recursos y así se satisface mejor al cliente. Se podría decir que es un sistema de planificación de la producción que, en términos generales, ayuda a planear y controlar la cadena de suministros. Si esta tarea se realiza adecuadamente, los productos y servicios llegarán al cliente cumpliendo especificaciones de tiempo y calidad, logrando un nivel de satisfacción alto y, por ende, se logrará el éxito en la gestión administrativa y de producción. 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -121,7 +121,7 @@
         .bg7.p-3.h-100.brad1.j.py-5
           p(data-aos="fade-down").mb-0 La información siempre estará actualizada.
 
-    p(data-aos="fade-down").my-5 En la actualidad la cuarta revolución industrial, la inteligencia artificial y el Internet de las cosas, hacen parte de todas las actividades, así la planificación de los recursos empresariales no es ajena a esto, y por eso se han desarrollado gran cantidad de software que satisfacen la necesidad de un MRP; claro está que en la herramienta Excel también se pueden diseñar e implementar MRP.
+    p(data-aos="fade-down").my-5 En la actualidad la cuarta revolución industrial, la inteligencia artificial y el Internet de las cosas, hacen parte de todas las actividades, así la planificación de los recursos empresariales no es ajena a esto, y por eso se han desarrollado gran cantidad de #[i software] que satisfacen la necesidad de un MRP; claro está que en la herramienta Excel también se pueden diseñar e implementar MRP.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
@@ -165,7 +165,7 @@
             .tarjeta.bg9.ts.h-100
               .p-4
                 h4 Información completa           
-                p.mb-0 Ingresar todos los datos anteriores en un software diseñado para poder consultar todos los movimientos, estados y cálculos de medidas. 
+                p.mb-0 Ingresar todos los datos anteriores en un #[i software] diseñado para poder consultar todos los movimientos, estados y cálculos de medidas. 
         .col-lg.col-md-6.mb-3
           .tarjeta.tarjeta-avatar.h-100
             img.img-w1(src='@/assets/curso/temas/45.svg' alt='AvatarTop')

@@ -74,7 +74,7 @@
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Aplicativos existentes 
-            p Entre las soluciones que ofrece el mercado se encuentran los Enterprise Resourse Planning ERP o planeador de recursos empresariales; programas que integran información empresarial para ayudar a tomar decisiones más acertadas.         
+            p Entre las soluciones que ofrece el mercado se encuentran los #[i Enterprise Resourse Planning] ERP o planeador de recursos empresariales; programas que integran información empresarial para ayudar a tomar decisiones más acertadas.         
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/72.png', alt='') 
 
@@ -121,7 +121,7 @@
             .col-lg-auto.mb-3
               img.img-a.img-t.beat(src='@/assets/curso/temas/39.svg', alt='')
             .col
-              p(data-aos="fade-down").mb-0 Existen otros programas diseñados también para obtener información en tiempo real y aprovechar mejor los recursos, entre otras bondades; a esos programas se les llama BPM (Business Process Management), que se traduce como Gestión de Procesos de Negocio          
+              p(data-aos="fade-down").mb-0 Existen otros programas diseñados también para obtener información en tiempo real y aprovechar mejor los recursos, entre otras bondades; a esos programas se les llama BPM (#[i Business Process Management]), que se traduce como Gestión de Procesos de Negocio          
 </template>
 
 <script>

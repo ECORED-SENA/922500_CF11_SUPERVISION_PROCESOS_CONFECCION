@@ -277,7 +277,8 @@ export default {
       referencia:
         'Schroeder R. Meyer S. y Rungtusanatham, J. (2011). <i>Administración de operaciones. Conceptos y casos contemporáneos</i>. McGraw-Hill.',
       tipo: 'PDF',
-      descarga: '/downloads/Anexo_1_AplicacionDelGraficoDeGantt.pdf',
+      link:
+        'https://intercovamex.com/wp-content/uploads/2019/06/Administracion_de_operaciones-1.pdf',
     },
     {
       tema: 'Métodos de proyección de recursos humanos',
@@ -351,7 +352,7 @@ export default {
     {
       termino: 'Insumos',
       significado:
-        'elemento que permite crear un producto o servicio a partir de éste.',
+        'elemento que permite crear un producto o servicio a partir de este.',
     },
     {
       termino: 'Inventario',
@@ -487,8 +488,7 @@ export default {
     {
       referencia:
         'Salazar, C. y Del Castillo, S. (2018). <i>Fundamentos básicos de estadística</i>.',
-      link:
-        'http://www.dspace.uce.edu.ec/bitstream/25000/13720/3/Fundamentos%20B%C3%A1sicos%20de%20Estad%C3%ADstica-Libro.pdf',
+      link: 'https://pubhtml5.com/skfd/tkbj/basic/',
     },
     {
       referencia:

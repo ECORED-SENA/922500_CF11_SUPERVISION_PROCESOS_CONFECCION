@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-7.my-3
-        p(data-aos="fade-down") Inicialmente es importante que se conozca las variables que intervienen en la construcción del PMP; los productos, las referencias, los clientes, la capacidad instalada, la cantidad que se fabrica de cada lote, las políticas de programación de producción y la utilización del talento humano. Todo lo anterior, sirve para proponer un plan realista, ajustado a la cantidad de productos y clientes que se tiene.
+        p(data-aos="fade-down") Inicialmente, es importante que se conozca las variables que intervienen en la construcción del PMP; los productos, las referencias, los clientes, la capacidad instalada, la cantidad que se fabrica de cada lote, las políticas de programación de producción y la utilización del talento humano. Todo lo anterior, sirve para proponer un plan realista, ajustado a la cantidad de productos y clientes que se tiene.
 
         p(data-aos="fade-down") Sobre la elaboración del plan maestro de producción, es importante tener en cuenta:
       .col-lg-5.my-3
@@ -43,7 +43,7 @@
         p(data-aos="fade-down") Afiance su compresión, siguiendo atentamente el siguiente caso:
 
         .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Una empresa que trabaja de lunes a viernes con turnos de 8 horas tiene una capacidad de producción de 400 piezas semanales, su política de manejo de inventarios es mantener en stock 100 unidades como mínimo. Con antelación de 8 semanas ya conoce los pedidos y, con la entrega adecuada de insumos y materias primas los proveedores entregan con muy buen tiempo de antelación sus pedidos. 
+          p(data-aos="fade-down").mb-0 Una empresa que trabaja de lunes a viernes con turnos de 8 horas tiene una capacidad de producción de 400 piezas semanales, su política de manejo de inventarios es mantener en stock 100 unidades como mínimo. Con antelación de 8 semanas ya conoce los pedidos y, con la entrega adecuada de insumos y materias primas, los proveedores entregan con muy buen tiempo de antelación sus pedidos. 
         p(data-aos="fade-down") En la semana 1 tiene un inventario de 100 unidades.          
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/21.png', alt='')  
@@ -131,10 +131,10 @@
         .bg5.brad1.p-4.mb-3(data-aos="flip-down")
           p.mb-0(data-aos="fade-down") Hay que considerar que el inventario inicial de un período es igual al inventario final del período anterior, a excepción del primer período que se toma; esa información la dieron en la bodega: 100 unidades.
         .bg5.brad1.p-4.mb-3(data-aos="flip-down")
-          p(data-aos="fade-down") Teniendo los datos de los pedidos y de los inventarios se calculará las necesidades de producción, período por período, así: 
+          p(data-aos="fade-down") Teniendo los datos de los pedidos y de los inventarios, se calculará las necesidades de producción, período por período, así: 
           h5.text-center.mb-0(data-aos="fade-down") Inventario inicial (período actual) = Inventario final (periodo anterior)
         .bg5.brad1.p-4(data-aos="flip-down")
-          p(data-aos="fade-down") Ahora, el inventario final, lo que queda al terminar el período es igual al inventario inicial más las unidades producidas menos los pedidos.                              
+          p(data-aos="fade-down") Ahora, el inventario final, lo que queda al terminar el período, es igual al inventario inicial más las unidades producidas menos los pedidos.                              
           h5.text-center.mb-0(data-aos="fade-down") Inventario final = inventario inicial + unidades producidas - pedidos                             
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/22.png', alt='')                

@@ -37,7 +37,7 @@
         .tarjeta.bg1.ts.h-100
           .p-4
             h4 #[i Master Production Schedule] 
-            p.mb-0 El plan maestro de producción (PMP) también es conocido como MPS por sus siglas en inglés #[i Master Production Schedule], consiste en la planeación a nivel operativo, se encarga de revisar los pronósticos del mercado y los pedidos que se hayan producido   
+            p.mb-0 El plan maestro de producción (PMP) también es conocido como MPS por sus siglas en inglés #[i Master Production Schedule], consiste en la planeación a nivel operativo, se encarga de revisar los pronósticos del mercado y los pedidos que se hayan producido.   
       .tarjeta.tarjeta-avatar.h-100
         img.img-w(src='@/assets/curso/temas/4.svg' alt='AvatarTop')
 
@@ -97,7 +97,7 @@
       .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="Cantidad de los lotes de<br> producción")
         .row.justify-content-center.align-items-center
           .col-12
-            p.mb-0 Estas cifras se determinan de acuerdo con las políticas de la organización que algunas veces se basan en la consecución de las materias primas, los sistemas de producción, los cortes de demanda, las restricciones de maquinarias o procesos, o la disponibilidad de mano de obra. 
+            p.mb-0 Estas cifras se determinan de acuerdo con las políticas de la organización, que algunas veces se basan en la consecución de las materias primas, los sistemas de producción, los cortes de demanda, las restricciones de maquinarias o procesos, o la disponibilidad de mano de obra. 
       .tarjeta.color-acento-botones--borde.tabs-brbottom.p-4(titulo="Capacidad instalada")
         .row.justify-content-center.align-items-center
           .col-12

@@ -40,7 +40,7 @@
               i.lista-ul__vineta
               | Generar subcontratación.
 
-    p(data-aos="fade-down") Se trata de insumos necesarios para realizar la planeación agregada de la producción la tasa de producción, el manejo de inventarios y el nivel de fuerza de trabajo, bajo una óptima combinación.
+    p(data-aos="fade-down") Se trata de insumos necesarios para realizar la planeación agregada de la producción, la tasa de producción, el manejo de inventarios y el nivel de fuerza de trabajo, bajo una óptima combinación.
 
     p(data-aos="fade-down").mb-5 Dichos elementos se describen a continuación: 
 
@@ -79,7 +79,7 @@
         .bg13.p-4
           h5.text-center.mb-0(data-aos="fade-down") Estrategia de persecución o caza               
         .bg14.p-4.h-100
-          p.mb-0(data-aos="fade-down") Genera procesos que permitan adaptarse a la demanda, logrando que la producción planificada satisfaga cada periodo. Generalmente se presenta inestabilidad, ya que para que la producción sea flexible frente a la variabilidad de la demanda, la fuerza de trabajo requiere cambiarse constantemente. 
+          p.mb-0(data-aos="fade-down") Genera procesos que permitan adaptarse a la demanda, logrando que la producción planificada satisfaga cada periodo. Generalmente, se presenta inestabilidad, ya que para que la producción sea flexible frente a la variabilidad de la demanda, la fuerza de trabajo requiere cambiarse constantemente. 
       .col-lg-4.my-3(data-aos="flip-down")
         .bg13.p-4
           h5.text-center.mb-0(data-aos="fade-down") Estrategia de nivelación               
@@ -121,7 +121,7 @@
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/64.svg', alt='')     
               .col
                 h5(data-aos="fade-down") Variación de tasa de utilización del personal u horas extras
-                p(data-aos="fade-down").mb-0 Dependiendo de si la temporada de ventas es alta o baja se puede requerir de más horas de trabajo de las normales que labora un empleado para cubrir la demanda. Esto puede representar ventajas al evitar costos por contratar o despedir; pero a la vez se presentan nuevos costos por el tiempo extra, los trabajadores tienden a disminuir su productividad y sentir incertidumbre por la inestabilidad del trabajo.
+                p(data-aos="fade-down").mb-0 Dependiendo de si la temporada de ventas es alta o baja, se puede requerir de más horas de trabajo de las normales que labora un empleado para cubrir la demanda. Esto puede representar ventajas al evitar costos por contratar o despedir; pero a la vez se presentan nuevos costos por el tiempo extra, los trabajadores tienden a disminuir su productividad y sentir incertidumbre por la inestabilidad del trabajo.
         .col-lg-6.my-3(data-aos="fade-left")
           .bg16.p-4.h-100.brad1.j
             .row.justify-content-center           

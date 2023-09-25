@@ -94,7 +94,7 @@
       .col-lg-7.my-3 
         p(data-aos="fade-down") Los diagramas de carga o gráficas de balanceos permiten aprovechar de manera coherente todos los recursos disponibles y/o los necesarios. Las líneas de producción deben ser equilibradas, balanceadas y optimizadas, teniendo en cuenta inventarios, personas, maquinaria y características de los productos a fabricar.
 
-        p(data-aos="fade-down") Es necesario en las plantas de producción de manufactura de prendas de vestir y similares saber equilibrar y aprovechar los recursos con que se dispone, para eso se hace un ejercicio de balanceo de cargas, es decir, que todas las operaciones avancen a la misma velocidad
+        p(data-aos="fade-down") Es necesario en las plantas de producción de manufactura de prendas de vestir y similares saber equilibrar y aprovechar los recursos con que se dispone, para eso se hace un ejercicio de balanceo de cargas, es decir, que todas las operaciones avancen a la misma velocidad.
 
         p(data-aos="fade-down") Para eso es necesario: 
 
@@ -124,7 +124,7 @@
       .col-lg-7.my-3 
         p(data-aos="fade-down") Los procesos y las actividades que se realizan para ensamblar o manufacturar prendas de vestir se realizan habitualmente en máquinas operadas por personas; sin embargo, se han venido desarrollando avances significativos en esa relación hombre – máquina, y la tecnología se ha incorporado de manera trascendental en esa relación.
 
-        p(data-aos="fade-down") Inicialmente las máquinas convencionales no poseían dispositivos muy sofisticados, con el paso de los años se fueron incorporando componentes electrónicos que permitían que, por medio de una orden computarizada o sistematizada, se integrara con otras acciones, así se fueron eliminando pequeñas acciones y movimientos. Se aprovechó mejor la tecnología y se pudieron planear y ejecutar varias acciones en secuencia de manera automática.
+        p(data-aos="fade-down") Inicialmente, las máquinas convencionales no poseían dispositivos muy sofisticados, con el paso de los años se fueron incorporando componentes electrónicos que permitían que, por medio de una orden computarizada o sistematizada, se integrara con otras acciones, así se fueron eliminando pequeñas acciones y movimientos. Se aprovechó mejor la tecnología y se pudieron planear y ejecutar varias acciones en secuencia de manera automática.
 
         p(data-aos="fade-down") Al respecto, tenga presente los siguientes aspectos: 
       .col-lg-5.my-3
@@ -156,7 +156,7 @@
         .row.justify-content-center.mt-3
           .col-lg-4.mb-4.mb-md-0.my-3
             h4 Estructura secuencial
-            p La programación secuencial, también llamada estructura secuencial se refiere a la descripción detallada de esa serie de operaciones o actividades que funcionan secuencia tras secuencia, una a una, conservando un orden de ejecución lógico.
+            p La programación secuencial, también llamada estructura secuencial, se refiere a la descripción detallada de esa serie de operaciones o actividades que funcionan secuencia tras secuencia, una a una, conservando un orden de ejecución lógico.
         
           .col-lg-7.my-3
             img.img-a.img-t(src='@/assets/curso/temas/55.png', alt='') 
